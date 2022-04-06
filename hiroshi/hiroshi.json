@@ -1,0 +1,10 @@
+{
+  "h1": {
+    "value": "22",
+    "type": "sizing"
+  },
+  "s1": {
+    "value": "22",
+    "type": "spacing"
+  }
+}
