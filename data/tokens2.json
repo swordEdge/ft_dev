@@ -1,0 +1,30 @@
+{
+  "abc": {
+    "asdf": {
+      "value": "23",
+      "type": "sizing"
+    },
+    "fff": {
+      "value": "sdf",
+      "type": "spacing"
+    }
+  },
+  "global": {
+    "fefwef": {
+      "value": "#764848",
+      "type": "color"
+    }
+  },
+  "refwefw": {
+    "fewfw": {
+      "value": "23",
+      "type": "opacity"
+    }
+  },
+  "bbb": {
+    "aaa": {
+      "value": "#966262",
+      "type": "color"
+    }
+  }
+}
