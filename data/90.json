@@ -1531,6 +1531,10 @@
     "asdf": {
       "value": "asdf",
       "type": "sizing"
+    },
+    "my size": {
+      "value": "125",
+      "type": "sizing"
     }
   },
   "semantic": {
