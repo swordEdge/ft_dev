@@ -23,6 +23,10 @@
     "eeeee": {
       "value": "2",
       "type": "sizing"
+    },
+    "yuuu": {
+      "value": "67",
+      "type": "sizing"
     }
   }
 }
