@@ -1,0 +1,20 @@
+{
+  "global": {
+    "a": {
+      "value": "76",
+      "type": "sizing"
+    },
+    "b": {
+      "value": "15",
+      "type": "sizing"
+    },
+    "c": {
+      "value": "{a}",
+      "type": "sizing"
+    },
+    "sd": {
+      "value": "44",
+      "type": "sizing"
+    }
+  }
+}
