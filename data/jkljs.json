@@ -1436,6 +1436,10 @@
       "yourcom": {
         "value": "45",
         "type": "sizing"
+      },
+      "tttt": {
+        "value": "$6",
+        "type": "sizing"
       }
     },
     "space": {
@@ -1610,7 +1614,7 @@
             "fontFamily": "Inter",
             "fontWeight": "Regular",
             "lineHeight": "AUTO",
-            "fontSize": "$18",
+            "fontSize": "$2",
             "letterSpacing": "0%",
             "paragraphSpacing": "0",
             "textDecoration": "none",
