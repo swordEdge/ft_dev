@@ -1,5 +1,13 @@
 {
   "core": {
+    "2": {
+      "value": "2",
+      "type": "opacity"
+    },
+    "3": {
+      "value": "3",
+      "type": "fontSizes"
+    },
     "1111": {
       "value": "11",
       "type": "sizing"
@@ -1138,6 +1146,10 @@
       "28": {
         "value": "160px",
         "type": "fontSizes"
+      },
+      "343": {
+        "value": "{typography.headlines.3.fontSize}",
+        "type": "fontSizes"
       }
     },
     "font-style": {
@@ -1609,6 +1621,19 @@
     },
     "typography": {
       "headlines": {
+        "3": {
+          "value": {
+            "fontFamily": "Inter",
+            "fontWeight": "Regular",
+            "lineHeight": "AUTO",
+            "fontSize": "$3",
+            "letterSpacing": "0%",
+            "paragraphSpacing": "0",
+            "textDecoration": "none",
+            "textCase": "none"
+          },
+          "type": "typography"
+        },
         "333": {
           "value": {
             "fontFamily": "Inter",
