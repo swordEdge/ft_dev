@@ -1603,14 +1603,32 @@
     "typodgraphy": {
       "headlines": {
         "small": {
-          "value": {
-            "x": "2",
-            "y": "2",
-            "blur": "2",
-            "spread": "2",
-            "color": "#000000",
-            "type": "dropShadow"
-          },
+          "value": [
+            {
+              "x": "2",
+              "y": "2",
+              "blur": "2",
+              "spread": "2",
+              "color": "#000000",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "#000000",
+              "type": "dropShadow"
+            },
+            {
+              "x": "0",
+              "y": "0",
+              "blur": "0",
+              "spread": "0",
+              "color": "#000000",
+              "type": "dropShadow"
+            }
+          ],
           "type": "boxShadow"
         }
       }
