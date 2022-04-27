@@ -1713,23 +1713,6 @@
     "lll": {
       "value": "{size.25}",
       "type": "sizing"
-    },
-    "ffff": {
-      "value": [
-        {
-          "property": "fill",
-          "value": "{color.blue.900}"
-        },
-        {
-          "property": "fontSizes",
-          "value": "{font-size.12}"
-        },
-        {
-          "property": "spacing",
-          "value": "{space.25}"
-        }
-      ],
-      "type": "composition"
     }
   },
   "semantic": {
