@@ -36,6 +36,10 @@
       "value": "4",
       "type": "sizing"
     },
+    "1232132": {
+      "value": "23",
+      "type": "sizing"
+    },
     "border-radius": {
       "0": {
         "value": "64px",
