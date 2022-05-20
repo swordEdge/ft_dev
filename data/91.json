@@ -1622,6 +1622,33 @@
         "opacity": "{opacity.50}"
       },
       "type": "composition"
+    },
+    "multi": {
+      "value": [
+        {
+          "x": "{size.12}",
+          "y": "{size.50}",
+          "blur": "{size.150}",
+          "spread": "{size.100}",
+          "color": "#000000",
+          "type": "dropShadow"
+        },
+        {
+          "x": "2",
+          "y": "3",
+          "blur": "4",
+          "spread": "0",
+          "color": "#561111",
+          "type": "innerShadow"
+        }
+      ],
+      "type": "boxShadow"
+    },
+    "fifth": {
+      "value": {
+        "boxShadow": "{multi}"
+      },
+      "type": "composition"
     }
   },
   "semantic": {
