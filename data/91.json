@@ -1595,6 +1595,33 @@
           "type": "typography"
         }
       }
+    },
+    "first": {
+      "value": {
+        "opacity": "{opacity.70}"
+      },
+      "type": "composition"
+    },
+    "seconde": {
+      "value": {
+        "opacity": "{opacity.40}",
+        "borderRadius": "{border-radius.5}"
+      },
+      "type": "composition"
+    },
+    "third": {
+      "value": {
+        "boxShadow": "{typodgraphy.headlines.small}}"
+      },
+      "type": "composition"
+    },
+    "fourth": {
+      "value": {
+        "boxShadow": "{typodgraphy.headlines.small}",
+        "borderRadius": "{border-radius.5}",
+        "opacity": "{opacity.50}"
+      },
+      "type": "composition"
     }
   },
   "semantic": {
