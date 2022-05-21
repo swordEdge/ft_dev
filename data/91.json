@@ -1596,33 +1596,6 @@
         }
       }
     },
-    "first": {
-      "value": {
-        "opacity": "{opacity.70}"
-      },
-      "type": "composition"
-    },
-    "seconde": {
-      "value": {
-        "opacity": "{opacity.40}",
-        "borderRadius": "{border-radius.5}"
-      },
-      "type": "composition"
-    },
-    "third": {
-      "value": {
-        "boxShadow": "{typodgraphy.headlines.small}}"
-      },
-      "type": "composition"
-    },
-    "fourth": {
-      "value": {
-        "boxShadow": "{typodgraphy.headlines.small}",
-        "borderRadius": "{border-radius.5}",
-        "opacity": "{opacity.50}"
-      },
-      "type": "composition"
-    },
     "multi": {
       "value": [
         {
@@ -1644,12 +1617,6 @@
       ],
       "type": "boxShadow"
     },
-    "fifth": {
-      "value": {
-        "boxShadow": "{multi}"
-      },
-      "type": "composition"
-    }
   },
   "semantic": {
     "semantic": {
