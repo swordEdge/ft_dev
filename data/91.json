@@ -4,8 +4,44 @@
       "value": "11",
       "type": "sizing"
     },
-    "56566": {
-      "value": "56",
+    "2222": {
+      "value": "22",
+      "type": "sizing"
+    },
+    "2345": {
+      "value": "23",
+      "type": "sizing"
+    },
+    "5555": {
+      "value": "5",
+      "type": "sizing"
+    },
+    "12345": {
+      "value": "12",
+      "type": "sizing"
+    },
+    "33333": {
+      "value": "3",
+      "type": "sizing"
+    },
+    "45454": {
+      "value": "3",
+      "type": "sizing"
+    },
+    "77777": {
+      "value": "7",
+      "type": "sizing"
+    },
+    "90909": {
+      "value": "66",
+      "type": "sizing"
+    },
+    "444444": {
+      "value": "4",
+      "type": "sizing"
+    },
+    "1232132": {
+      "value": "23",
       "type": "sizing"
     },
     "border-radius": {
@@ -1596,27 +1632,34 @@
         }
       }
     },
-    "multi": {
+    "mycom": {
       "value": [
         {
-          "x": "{size.12}",
-          "y": "{size.50}",
-          "blur": "{size.150}",
-          "spread": "{size.100}",
-          "color": "#000000",
-          "type": "dropShadow"
+          "property": "fontFamilies",
+          "value": "font-family.mono"
         },
         {
-          "x": "2",
-          "y": "3",
-          "blur": "4",
-          "spread": "0",
-          "color": "#561111",
-          "type": "innerShadow"
+          "property": "fontSizes",
+          "value": "font-size.12"
+        },
+        {
+          "property": "fontWeights",
+          "value": "font-weight.bold"
         }
       ],
-      "type": "boxShadow"
+      "type": "composition"
     },
+    "com": {
+      "value": {
+        "property": "fill",
+        "value": "color.slate.200"
+      },
+      "type": "composition"
+    },
+    "dfdfdf": {
+      "value": "33333",
+      "type": "sizing"
+    }
   },
   "semantic": {
     "semantic": {
