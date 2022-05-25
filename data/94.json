@@ -1,5 +1,9 @@
 {
   "core": {
+    "2": {
+      "value": "2",
+      "type": "sizing"
+    },
     "1111": {
       "value": "11",
       "type": "sizing"
@@ -6861,5 +6865,6 @@
         "type": "borderWidth"
       }
     }
-  }
+  },
+  "$themes": []
 }
