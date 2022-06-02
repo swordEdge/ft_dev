@@ -232,6 +232,35 @@
             "type": "dropShadow"
           },
           "type": "boxShadow"
+        },
+        "multi": {
+          "value": [
+            {
+              "x": "{size.12}",
+              "y": "{size.0}",
+              "blur": "{size.12}",
+              "spread": "0",
+              "color": "#a85f5f",
+              "type": "innerShadow"
+            },
+            {
+              "x": "5",
+              "y": "7",
+              "blur": "2",
+              "spread": "0",
+              "color": "#000000",
+              "type": "innerShadow"
+            },
+            {
+              "x": "{size.12}",
+              "y": "{size.0}",
+              "blur": "{3}",
+              "spread": "0",
+              "color": "#8e7777",
+              "type": "innerShadow"
+            }
+          ],
+          "type": "boxShadow"
         }
       }
     },
