@@ -1,8 +1,21 @@
 {
   "core": {
+    "1": {
+      "value": {
+        "opacity": "{opacity.50}",
+        "fontSizes": "{font-size.4}"
+      },
+      "type": "composition"
+    },
     "2": {
       "value": "2",
       "type": "sizing"
+    },
+    "3": {
+      "value": {
+        "fontSizes": "{font-size.8}"
+      },
+      "type": "composition"
     },
     "1111": {
       "value": "11",
