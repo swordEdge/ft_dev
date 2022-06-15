@@ -1,0 +1,116 @@
+{
+  "color": {
+    "background": {
+      "surface": {
+        "value": "$color.brand.lilac.10",
+        "type": "color"
+      },
+      "divider": {
+        "value": "$color.brand.lilac.20",
+        "type": "color"
+      },
+      "divider-strong": {
+        "value": "$color.brand.lilac.30",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "rgba($color.foreground.primary, 0.5)",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba($color.foreground.primary, 0.1)",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "primary": {
+        "value": "$color.brand.lilac.contrast",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "rgba($color.foreground.primary, 0.6)",
+        "type": "color"
+      },
+      "hint": {
+        "value": "rgba($color.foreground.primary, 0.4)",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba($color.foreground.primary, 0.20)",
+        "type": "color"
+      },
+      "tinted": {
+        "value": "$color.background.surface",
+        "type": "color"
+      }
+    },
+    "interactive": {
+      "primary": {
+        "default": {
+          "value": "$color.foreground.primary",
+          "type": "color"
+        },
+        "hover": {
+          "value": "rgba($color.foreground.primary, 0.9)",
+          "type": "color"
+        },
+        "active": {
+          "value": "rgba($color.foreground.primary, 0.8)",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.brand.lilac.contrast-invert",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.background.surface",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "$color.brand.lilac.30",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$color.brand.lilac.20",
+          "type": "color"
+        },
+        "active": {
+          "value": "$color.brand.lilac.contrast-invert",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.brand.lilac.contrast",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.foreground.secondary",
+          "type": "color"
+        }
+      },
+      "external": {
+        "default": {
+          "value": "$color.brand.lilac.10",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$color.brand.lilac.20",
+          "type": "color"
+        },
+        "active": {
+          "value": "$color.brand.lilac.30",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.foreground.primary",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.interactive.secondary.default",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
