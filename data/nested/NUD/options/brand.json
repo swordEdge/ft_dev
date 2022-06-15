@@ -1,0 +1,72 @@
+{
+  "color": {
+    "brand": {
+      "background": {
+        "10": {
+          "value": "#F8F7F3",
+          "type": "color"
+        },
+        "20": {
+          "value": "#EAE6DA",
+          "type": "color"
+        },
+        "30": {
+          "value": "#DFDAC8",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        }
+      },
+      "card": {
+        "10": {
+          "value": "#FFFFFF",
+          "type": "color"
+        },
+        "20": {
+          "value": "#EBEBEB",
+          "type": "color"
+        },
+        "30": {
+          "value": "#DBDBDB",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        }
+      },
+      "accent": {
+        "10": {
+          "value": "#0060F0",
+          "type": "color"
+        },
+        "20": {
+          "value": "#0E6EFF",
+          "type": "color"
+        },
+        "30": {
+          "value": "#217AFF",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
