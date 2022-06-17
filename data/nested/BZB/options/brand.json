@@ -1,0 +1,72 @@
+{
+  "color": {
+    "brand": {
+      "blue": {
+        "10": {
+          "value": "#128EF3",
+          "type": "color"
+        },
+        "20": {
+          "value": "#0C88EE",
+          "type": "color"
+        },
+        "30": {
+          "value": "#0C83E4",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        }
+      },
+      "yellow": {
+        "10": {
+          "value": "#FFF000",
+          "type": "color"
+        },
+        "20": {
+          "value": "#F5E600",
+          "type": "color"
+        },
+        "30": {
+          "value": "#EBDD00",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        }
+      },
+      "lilac": {
+        "10": {
+          "value": "#C5C1F8",
+          "type": "color"
+        },
+        "20": {
+          "value": "#BAB6F7",
+          "type": "color"
+        },
+        "30": {
+          "value": "#B2ADF6",
+          "type": "color"
+        },
+        "contrast": {
+          "value": "{bzb.color.contrast.black}",
+          "type": "color"
+        },
+        "contrast-invert": {
+          "value": "{bzb.color.contrast.white}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
