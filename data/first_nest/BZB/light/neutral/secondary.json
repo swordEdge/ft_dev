@@ -1,0 +1,116 @@
+{
+  "color": {
+    "background": {
+      "surface": {
+        "value": "$color.neutral.secondary.10",
+        "type": "color"
+      },
+      "divider": {
+        "value": "$color.neutral.secondary.20",
+        "type": "color"
+      },
+      "divider-strong": {
+        "value": "$color.neutral.secondary.30",
+        "type": "color"
+      },
+      "overlay": {
+        "value": "rgba($color.foreground.primary, 0.5)",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba($color.foreground.primary, 0.1)",
+        "type": "color"
+      }
+    },
+    "foreground": {
+      "primary": {
+        "value": "$color.neutral.secondary.contrast",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "rgba($color.foreground.primary, 0.6)",
+        "type": "color"
+      },
+      "hint": {
+        "value": "rgba($color.foreground.primary, 0.4)",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "rgba($color.foreground.primary, 0.20)",
+        "type": "color"
+      },
+      "tinted": {
+        "value": "$color.background.surface",
+        "type": "color"
+      }
+    },
+    "interactive": {
+      "primary": {
+        "default": {
+          "value": "$color.foreground.primary",
+          "type": "color"
+        },
+        "hover": {
+          "value": "rgba($color.foreground.primary, 0.9)",
+          "type": "color"
+        },
+        "active": {
+          "value": "$color.system.info.10",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.neutral.secondary.contrast-invert",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.background.surface",
+          "type": "color"
+        }
+      },
+      "secondary": {
+        "default": {
+          "value": "$color.neutral.secondary.30",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$color.neutral.secondary.20",
+          "type": "color"
+        },
+        "active": {
+          "value": "$color.neutral.secondary.contrast-invert",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.neutral.secondary.contrast",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.foreground.secondary",
+          "type": "color"
+        }
+      },
+      "external": {
+        "default": {
+          "value": "$color.neutral.secondary.10",
+          "type": "color"
+        },
+        "hover": {
+          "value": "$color.neutral.secondary.20",
+          "type": "color"
+        },
+        "active": {
+          "value": "$color.neutral.secondary.30",
+          "type": "color"
+        },
+        "foreground": {
+          "value": "$color.foreground.primary",
+          "type": "color"
+        },
+        "foreground-tinted": {
+          "value": "$color.interactive.secondary.default",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
