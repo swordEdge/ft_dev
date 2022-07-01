@@ -1,0 +1,15 @@
+{
+  "a": {
+    "border": {
+      "value": "0",
+      "type": "borderRadius"
+    }
+  },
+  "b": {
+    "border": {
+      "value": "32",
+      "type": "borderRadius"
+    }
+  },
+  "$themes": []
+}
