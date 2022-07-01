@@ -1,0 +1,21 @@
+{
+  "a": {
+    "border": {
+      "value": "0",
+      "type": "borderRadius"
+    },
+    "true": {
+      "value": "true",
+      "type": "borderRadius"
+    },
+    "alias": {
+      "value": "{true}",
+      "type": "borderRadius"
+    },
+    "bold": {
+      "value": "bold",
+      "type": "fontFamilies"
+    }
+  },
+  "$themes": []
+}
