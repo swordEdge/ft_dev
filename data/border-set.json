@@ -3,12 +3,24 @@
     "border": {
       "value": "0",
       "type": "borderRadius"
+    },
+    "set": {
+      "value": {
+        "borderRadius": "0"
+      },
+      "type": "composition"
     }
   },
   "b": {
     "border": {
       "value": "32",
       "type": "borderRadius"
+    },
+    "set": {
+      "value": {
+        "borderRadius": "32"
+      },
+      "type": "composition"
     }
   },
   "$themes": []
