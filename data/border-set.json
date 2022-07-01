@@ -9,6 +9,14 @@
         "borderRadius": "0"
       },
       "type": "composition"
+    },
+    "true": {
+      "value": "true",
+      "type": "borderRadius"
+    },
+    "alias": {
+      "value": "{true}",
+      "type": "borderRadius"
     }
   },
   "b": {
