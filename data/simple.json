@@ -18,5 +18,11 @@
       "type": "typography"
     }
   },
+  "new": {
+    "1": {
+      "value": "1",
+      "type": "sizing"
+    }
+  },
   "$themes": []
 }
