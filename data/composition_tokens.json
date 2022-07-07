@@ -1655,6 +1655,20 @@
         "opacity": "{opacity.70}"
       },
       "type": "composition"
+    },
+    "gradient": {
+      "test1": {
+        "value": "linear-gradient(0deg, #d5a5d7 0%, #02B2C7 100%)",
+        "type": "color"
+      },
+      "test2": {
+        "value": "linear-gradient(0deg, #a5a5d7 0%, #02B2C7 150%)",
+        "type": "color"
+      },
+      "test3": {
+        "value": "linear-gradient(0deg, #a5a5d7 -80%, #02B2C7 100%)",
+        "type": "color"
+      }
     }
   },
   "semantic": {
