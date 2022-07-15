@@ -1632,6 +1632,10 @@
         "value": "color.slate.200"
       },
       "type": "composition"
+    },
+    "value": {
+      "value": "2",
+      "type": "sizing"
     }
   },
   "semantic": {
