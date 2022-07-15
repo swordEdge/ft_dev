@@ -3,25 +3,6 @@
     "1": {
       "value": "1",
       "type": "sizing"
-    },
-    "first": {
-      "value": {
-        "fontFamily": "arial",
-        "fontWeight": "bold",
-        "lineHeight": "1",
-        "fontSize": "1",
-        "letterSpacing": "1",
-        "paragraphSpacing": "1",
-        "textDecoration": "1",
-        "textCase": "1"
-      },
-      "type": "typography"
-    }
-  },
-  "new": {
-    "1": {
-      "value": "1",
-      "type": "sizing"
     }
   },
   "$themes": []
