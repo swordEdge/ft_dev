@@ -1633,10 +1633,6 @@
       },
       "type": "composition"
     },
-    "value": {
-      "value": "2",
-      "type": "sizing"
-    }
   },
   "semantic": {
     "semantic": {
