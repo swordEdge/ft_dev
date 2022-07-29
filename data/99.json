@@ -4,11 +4,7 @@
       "0": {
         "value": "64px",
         "type": "borderRadius"
-      },
-      "1": {
-        "value": "1px",
-        "type": "borderRadius"
-      },
+      
       "2": {
         "value": "2px",
         "type": "borderRadius"
