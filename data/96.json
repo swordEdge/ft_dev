@@ -4066,6 +4066,10 @@
         "default": {
           "value": "{semantic.color.inputs.default.text-color}",
           "type": "color"
+        },
+        "new": {
+          "value": "#711f1f",
+          "type": "color"
         }
       },
       "track": {
