@@ -1,0 +1,12 @@
+{
+  "tokenSetOrder": [
+    "core",
+    "divider",
+    "menu-item-re",
+    "radio",
+    "semantic",
+    "switch",
+    "tag-rename",
+    "text-field"
+  ]
+}

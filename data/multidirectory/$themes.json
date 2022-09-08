@@ -1,0 +1,17 @@
+[
+  {
+    "id": "b8156146a5ac1fb7fdd1464895468f726daa47c4",
+    "name": "root",
+    "selectedTokenSets": {
+      "core": "enabled",
+      "divider": "disabled",
+      "menu-item-re": "disabled",
+      "radio": "disabled",
+      "semantic": "disabled",
+      "switch": "disabled",
+      "tag-rename": "disabled",
+      "text-field": "disabled"
+    },
+    "$figmaStyleReferences": {}
+  }
+]
