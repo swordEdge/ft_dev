@@ -1,0 +1,179 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{base.apricot.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.apricot.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.apricot.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.apricot.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.apricot.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.apricot.200}"
+      }
+    },
+    "warning": {
+      "dark": {
+        "type": "color",
+        "value": "{base.apricot.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.apricot.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.apricot.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.apricot.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.apricot.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.apricot.200}"
+      }
+    },
+    "success": {
+      "dark": {
+        "type": "color",
+        "value": "{base.success.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.success.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.success.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.success.400}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.success.200}"
+      }
+    },
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.neutral.dark.900}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{base.neutral.dark.800}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.neutral.dark.900}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{base.neutral.dark.900}"
+      },
+      "link": {
+        "value": "{theme.information.tone}",
+        "type": "color"
+      }
+    }
+  },
+  "base": {
+    "apricot": {
+      "100": {
+        "value": "#FCEDDE",
+        "type": "color"
+      },
+      "200": {
+        "value": "#FAE7D3",
+        "type": "color"
+      },
+      "300": {
+        "value": "#F6D5B2",
+        "type": "color"
+      },
+      "400": {
+        "value": "#F1C494",
+        "type": "color"
+      },
+      "500": {
+        "value": "#F59F49",
+        "type": "color"
+      },
+      "600": {
+        "value": "#E48822",
+        "type": "color"
+      },
+      "700": {
+        "value": "#CC7527",
+        "type": "color"
+      },
+      "800": {
+        "value": "#A35510",
+        "type": "color"
+      },
+      "900": {
+        "value": "#853E08",
+        "type": "color"
+      }
+    },
+    "other": {
+      "gradient-apricot": {
+        "value": "linear-gradient(180deg, #f19c3d 0%, #dd7400 100%)",
+        "type": "color"
+      },
+      "gradient-neutral": {
+        "value": "linear-gradient(220deg,  {base.neutral.dark.900} 0%,  {base.neutral.dark.900} 100%)",
+        "type": "color"
+      },
+      "transparent-80": {
+        "value": "rgba({base.neutral.dark.900}, {opacity.80})",
+        "type": "color",
+        "description": "Transparent bar"
+      },
+      "bottom-to-top-40": {
+        "value": "linear-gradient(180deg, rgba({base.neutral.dark.800}, 0) 0%, rgba({base.neutral.dark.800}, 0.4) 100%)",
+        "type": "color"
+      },
+      "bottom-to-top-80": {
+        "value": "linear-gradient(180deg, rgba({base.neutral.dark.800}, 0) 0%, rgba({base.neutral.dark.800}, 0.6) 40%, rgba({base.neutral.dark.800}, 0.8) 100%)",
+        "type": "color"
+      },
+      "white-to-apricot": {
+        "value": "linear-gradient(90deg, rgba({base.apricot.600}, 0) 0%, {base.apricot.600} 100%)",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

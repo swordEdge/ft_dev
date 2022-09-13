@@ -1,0 +1,42 @@
+{
+  "base": {
+    "info": {
+      "100": {
+        "value": "#ebf1ff",
+        "type": "color"
+      },
+      "200": {
+        "value": "#d6e3ff",
+        "type": "color"
+      },
+      "300": {
+        "value": "#c2d2ff",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8fabff",
+        "type": "color"
+      },
+      "500": {
+        "value": "#506DE2",
+        "type": "color"
+      },
+      "600": {
+        "value": "#444CE7",
+        "type": "color"
+      },
+      "700": {
+        "value": "#3538CD",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2D31A6",
+        "type": "color"
+      },
+      "900": {
+        "value": "#2D3086",
+        "type": "color"
+      }
+    }
+  }
+}

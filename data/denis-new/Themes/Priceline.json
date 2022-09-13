@@ -1,0 +1,324 @@
+{
+  "base": {
+    "primary": {
+      "light": {
+        "value": "#e8f2ff",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#99c3f9",
+        "type": "color"
+      },
+      "base": {
+        "value": "#0068ef",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#0055c4",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#002f6d",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#004499",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "light": {
+        "value": "#ecf7ec",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#80d580",
+        "type": "color"
+      },
+      "base": {
+        "value": "#00aa00",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#008800",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#060",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#004400",
+        "type": "color"
+      }
+    },
+    "highlight": {
+      "light": {
+        "value": "#d0f1ac",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#b9ea85",
+        "type": "color"
+      },
+      "base": {
+        "value": "#8cdd36",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#66be20",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#2e9000",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#017000",
+        "type": "color"
+      }
+    },
+    "error": {
+      "light": {
+        "value": "#fbebeb",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#eb9999",
+        "type": "color"
+      },
+      "base": {
+        "value": "#cc0000",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#b80000",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#880000",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#6d0000",
+        "type": "color"
+      }
+    },
+    "alert": {
+      "light": {
+        "value": "#fef2e7",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#faaf69",
+        "type": "color"
+      },
+      "base": {
+        "value": "#f68013",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#f06f20",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#b74600",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#923800",
+        "type": "color"
+      }
+    },
+    "notify": {
+      "light": {
+        "value": "#fff3c0",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#fee875",
+        "type": "color"
+      },
+      "base": {
+        "value": "#fedc2a",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#cbb022",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#806e0e",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#665811",
+        "type": "color"
+      }
+    },
+    "promo-primary": {
+      "light": {
+        "value": "#f5ebfa",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#c28ce0",
+        "type": "color"
+      },
+      "base": {
+        "value": "#7700bb",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#5f0096",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#530083",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#410067",
+        "type": "color"
+      }
+    },
+    "promo-secondary": {
+      "light": {
+        "value": "#fff0f5",
+        "type": "color"
+      },
+      "tint": {
+        "value": "#ffa0c4",
+        "type": "color"
+      },
+      "base": {
+        "value": "#fe3e81",
+        "type": "color"
+      },
+      "tone": {
+        "value": "#d02962",
+        "type": "color"
+      },
+      "dark": {
+        "value": "#9e1f4b",
+        "type": "color"
+      },
+      "shade": {
+        "value": "#701b39",
+        "type": "color"
+      }
+    }
+  },
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{base.primary.dark}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.primary.tone}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.primary.base}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.primary.tint}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.primary.light}"
+      }
+    },
+    "info": {
+      "dark": {
+        "type": "color",
+        "value": "{base.primary.dark}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.primary.tone}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.primary.base}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.primary.tint}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.primary.light}"
+      }
+    },
+    "success": {
+      "dark": {
+        "type": "color",
+        "value": "{base.secondary.dark}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.secondary.tone}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.secondary.base}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.secondary.tint}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.secondary.light}"
+      }
+    },
+    "warning": {
+      "dark": {
+        "type": "color",
+        "value": "{base.alert.dark}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.alert.tone}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.alert.base}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.alert.tint}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.alert.light}"
+      }
+    },
+    "danger": {
+      "dark": {
+        "type": "color",
+        "value": "{base.error.dark}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.error.tone}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.error.base}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.error.tint}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.error.light}"
+      }
+    }
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "base": {
+    "mono": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color"
+      },
+      "black": {
+        "value": "#070708",
+        "type": "color"
+      }
+    }
+  }
+}

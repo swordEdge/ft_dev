@@ -1,0 +1,204 @@
+{
+  "theme": {
+    "info": {
+      "dark": {
+        "type": "color",
+        "value": "{base.info.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.info.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.info.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.info.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.info.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.info.100}"
+      }
+    },
+    "success": {
+      "dark": {
+        "type": "color",
+        "value": "{base.success.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.success.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.success.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.success.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.success.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.success.100}"
+      }
+    },
+    "primary": {
+      "dark": {
+        "value": "{base.warning.600}",
+        "type": "color"
+      },
+      "tone": {
+        "value": "{base.warning.500}",
+        "type": "color"
+      },
+      "default": {
+        "value": "{base.other.yellow-gradient}",
+        "type": "color"
+      },
+      "tint": {
+        "value": "{base.warning.400}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{base.warning.300}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{base.warning.100}",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "inverse-tertiary": {
+        "value": "{base.neutral.dark.600}",
+        "type": "color"
+      }
+    },
+    "presets": {
+      "header": {
+        "value": "{theme.bg.inverse-secondary}",
+        "type": "color"
+      },
+      "subheader": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "footer": {
+        "value": "{theme.bg.inverse-primary}",
+        "type": "color"
+      },
+      "link": {
+        "value": "{base.info.600}",
+        "type": "color"
+      }
+    }
+  },
+  "base": {
+    "other": {
+      "yellow-gradient": {
+        "value": "linear-gradient(180deg, #ffc63a 0%, #fea538 100%)",
+        "type": "color"
+      },
+      "alice-blue": {
+        "value": "#eef3ff",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "light": {
+        "100": {
+          "value": "#fafafb",
+          "type": "color"
+        },
+        "200": {
+          "value": "#f5f5f7",
+          "type": "color"
+        },
+        "300": {
+          "value": "#edeef3",
+          "type": "color"
+        },
+        "400": {
+          "value": "#e0e1ea",
+          "type": "color"
+        },
+        "500": {
+          "value": "#c7c9d8",
+          "type": "color"
+        },
+        "600": {
+          "value": "#aeb0c6",
+          "type": "color"
+        },
+        "700": {
+          "value": "#9ea2bc",
+          "type": "color"
+        },
+        "800": {
+          "value": "#9195af",
+          "type": "color"
+        },
+        "900": {
+          "value": "#858baa",
+          "type": "color"
+        }
+      },
+      "dark": {
+        "100": {
+          "value": "#6c7399",
+          "type": "color"
+        },
+        "200": {
+          "value": "#60678a",
+          "type": "color"
+        },
+        "300": {
+          "value": "#595f80",
+          "type": "color"
+        },
+        "400": {
+          "value": "#525876",
+          "type": "color"
+        },
+        "500": {
+          "value": "#494f6e",
+          "type": "color"
+        },
+        "600": {
+          "value": "#3a4162",
+          "type": "color"
+        },
+        "700": {
+          "value": "#2c3357",
+          "type": "color"
+        },
+        "800": {
+          "value": "#192148",
+          "type": "color"
+        },
+        "900": {
+          "value": "#141a3b",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.12}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

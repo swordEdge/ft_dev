@@ -1,0 +1,136 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "value": "{base.macaw-blue.800}"
+      },
+      "tone": {
+        "type": "color",
+        "value": "{base.macaw-blue.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.macaw-blue.600}"
+      },
+      "tint": {
+        "type": "color",
+        "value": "{base.macaw-blue.500}"
+      },
+      "muted": {
+        "type": "color",
+        "value": "{base.macaw-blue.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "value": "{base.macaw-blue.100}"
+      }
+    },
+    "presets": {
+      "header": {
+        "type": "color",
+        "value": "{base.ship.700}"
+      },
+      "subheader": {
+        "type": "color",
+        "value": "{base.ship.600}"
+      },
+      "controls": {
+        "type": "color",
+        "value": "{base.macaw-blue.600}"
+      },
+      "footer": {
+        "type": "color",
+        "value": "{base.asphalt.500}"
+      },
+      "link": {
+        "type": "color",
+        "value": "{base.ship.700}"
+      }
+    }
+  },
+  "base": {
+    "macaw-blue": {
+      "100": {
+        "value": "#e4f7fb",
+        "type": "color"
+      },
+      "200": {
+        "value": "#bcebf5",
+        "type": "color"
+      },
+      "300": {
+        "value": "#95dfee",
+        "type": "color"
+      },
+      "400": {
+        "value": "#70d2eb",
+        "type": "color"
+      },
+      "500": {
+        "value": "#4fc9e8",
+        "type": "color"
+      },
+      "600": {
+        "value": "#2bbfe3",
+        "type": "color"
+      },
+      "700": {
+        "value": "#11a1c5",
+        "type": "color"
+      },
+      "800": {
+        "value": "#0d8bab",
+        "type": "color"
+      },
+      "900": {
+        "value": "#0b748e",
+        "type": "color"
+      }
+    },
+    "ship": {
+      "600": {
+        "value": "#5f78b4",
+        "type": "color"
+      },
+      "700": {
+        "value": "#4a69b3",
+        "type": "color"
+      }
+    },
+    "mandy": {
+      "500": {
+        "value": "#e66983",
+        "type": "color"
+      },
+      "600": {
+        "value": "#e24f6d",
+        "type": "color"
+      }
+    },
+    "stone": {
+      "700": {
+        "value": "#1c2f59",
+        "type": "color"
+      },
+      "900": {
+        "value": "#142240",
+        "type": "color"
+      }
+    },
+    "asphalt": {
+      "500": {
+        "value": "#515e74",
+        "type": "color"
+      },
+      "600": {
+        "value": "#3e4c65",
+        "type": "color"
+      },
+      "700": {
+        "value": "#38455b",
+        "type": "color"
+      }
+    }
+  }
+}
