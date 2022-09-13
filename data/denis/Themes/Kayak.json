@@ -1,0 +1,213 @@
+{
+  "theme": {
+    "primary": {
+      "dark": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{base.pumpkin.700}"
+      },
+      "tone": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{base.pumpkin.700}"
+      },
+      "default": {
+        "type": "color",
+        "value": "{base.chill.600}"
+      },
+      "tint": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{base.pumpkin.500}"
+      },
+      "muted": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{base.pumpkin.300}"
+      },
+      "subtle": {
+        "type": "color",
+        "description": "content, icon, text",
+        "value": "{base.pumpkin.50}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{base.chill.700}"
+      }
+    },
+    "bg": {
+      "secondary": {
+        "value": "#F3F5F7",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#F0F3F5",
+        "type": "color"
+      },
+      "disabled": {
+        "value": "#9ca3af29",
+        "type": "color"
+      }
+    },
+    "secondary": {
+      "default": {
+        "type": "color",
+        "value": "{base.space.700}"
+      },
+      "hover": {
+        "type": "color",
+        "value": "{base.space.800}"
+      },
+      "active": {
+        "type": "color",
+        "value": "{base.space.900}"
+      },
+      "onsecondary": {
+        "value": "{base.mono.white}",
+        "type": "color"
+      }
+    },
+    "content": {
+      "primary": {
+        "value": "#212A30",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#2C3439",
+        "type": "color"
+      },
+      "tertiary": {
+        "value": "#647582",
+        "type": "color"
+      },
+      "inverse-primary": {
+        "value": "{base.mono.white}",
+        "type": "color"
+      },
+      "inverse-secondary": {
+        "value": "#a0afba",
+        "type": "color"
+      }
+    },
+    "border": {
+      "primary": {
+        "value": "#e5ebf0",
+        "type": "color"
+      },
+      "secondary": {
+        "value": "#b3c1cb",
+        "type": "color"
+      },
+      "selected": {
+        "value": "#8596A3",
+        "type": "color"
+      }
+    },
+    "success": {
+      "tone": {
+        "value": "#13663B",
+        "type": "color"
+      },
+      "default": {
+        "value": "#15844B",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#DCFAEB",
+        "type": "color"
+      }
+    },
+    "danger": {
+      "default": {
+        "value": "#BF323B",
+        "type": "color"
+      }
+    },
+    "info": {
+      "tone": {
+        "value": "#0A6078",
+        "type": "color"
+      },
+      "default": {
+        "value": "#0B7B99",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "#DCF5FC",
+        "type": "color"
+      }
+    }
+  },
+  "presets": {
+    "link": {
+      "type": "color",
+      "value": "{base.chill.600}"
+    }
+  },
+  "base": {
+    "pumpkin": {
+      "50": {
+        "value": "#FFECE0",
+        "type": "color"
+      },
+      "300": {
+        "value": "#F8AE81",
+        "type": "color"
+      },
+      "500": {
+        "value": "#FF8033",
+        "type": "color"
+      },
+      "600": {
+        "value": "#ff690f",
+        "type": "color"
+      },
+      "700": {
+        "value": "#cc4500",
+        "type": "color"
+      }
+    },
+    "space": {
+      "700": {
+        "value": "#363f45",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2c3439",
+        "type": "color"
+      },
+      "900": {
+        "value": "#212a30",
+        "type": "color"
+      }
+    },
+    "chill": {
+      "600": {
+        "value": "#0f7b97",
+        "type": "color"
+      },
+      "700": {
+        "value": "#0d6077",
+        "type": "color"
+      }
+    },
+    "other": {
+      "Kayak": {
+        "value": "linear-gradient(90deg, #ff690f 0%, #ee4719 100%)",
+        "type": "color"
+      },
+      "Kayak-copy": {
+        "value": "linear-gradient(90deg, rgba({theme.accent.default}, 0) 0%, {theme.accent.default} 100%)",
+        "type": "color"
+      }
+    }
+  },
+  "button": {
+    "x-large": {
+      "border-radius": {
+        "value": "{border-radius.8}",
+        "type": "borderRadius"
+      }
+    }
+  }
+}

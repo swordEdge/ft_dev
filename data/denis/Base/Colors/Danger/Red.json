@@ -1,0 +1,42 @@
+{
+  "base": {
+    "danger": {
+      "100": {
+        "value": "#FFEBEB",
+        "type": "color"
+      },
+      "200": {
+        "value": "#FFD9D6",
+        "type": "color"
+      },
+      "300": {
+        "value": "#FFC2BD",
+        "type": "color"
+      },
+      "400": {
+        "value": "#F9A294",
+        "type": "color"
+      },
+      "500": {
+        "value": "#DC5338",
+        "type": "color"
+      },
+      "600": {
+        "value": "#CC4319",
+        "type": "color"
+      },
+      "700": {
+        "value": "#B63B1C",
+        "type": "color"
+      },
+      "800": {
+        "value": "#9A2A1D",
+        "type": "color"
+      },
+      "900": {
+        "value": "#881D11",
+        "type": "color"
+      }
+    }
+  }
+}

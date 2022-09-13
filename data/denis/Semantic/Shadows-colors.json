@@ -1,0 +1,22 @@
+{
+  "sys": {
+    "shadow": {
+      "light": {
+        "value": "rgba({base.neutral.light.800}, {opacity.24})",
+        "type": "color"
+      },
+      "dark": {
+        "value": "rgba({base.mono.black}, {opacity.24})",
+        "type": "color"
+      },
+      "primary": {
+        "value": "rgba({theme.primary.tone}, {opacity.24})",
+        "type": "color"
+      },
+      "success": {
+        "value": "rgba({theme.success.tone}, {opacity.24})",
+        "type": "color"
+      }
+    }
+  }
+}
