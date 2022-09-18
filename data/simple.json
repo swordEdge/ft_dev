@@ -3,7 +3,16 @@
     "1": {
       "value": "1",
       "type": "sizing"
+    },
+    "2": {
+      "value": "2",
+      "type": "sizing"
     }
   },
-  "$themes": []
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core"
+    ]
+  }
 }
