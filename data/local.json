@@ -693,7 +693,7 @@
   },
   "dark": {
     "fg": {
-      "default": {
+      "default-new": {
         "value": "{colors.white}",
         "type": "color"
       },
@@ -707,7 +707,7 @@
       }
     },
     "bg": {
-      "default": {
+      "default-rename": {
         "value": "{colors.gray.900}",
         "type": "color"
       },
