@@ -672,7 +672,7 @@
       "muted": {
         "value": "{colors.gray.100}",
         "type": "color"
-      },
+      }
       "subtle": {
         "value": "{colors.gray.200}",
         "type": "color"
