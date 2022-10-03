@@ -812,7 +812,56 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "463cbb9d54789ec6844f2356e5a054914a89458f",
+      "name": "Light",
+      "selectedTokenSets": {
+        "global": "source",
+        "light": "enabled",
+        "dark": "disabled",
+        "theme": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "button.primary.background": "S:3f55f1f532976102d97962fd423e237b0f82b684,",
+        "button.ghost.outline": "S:a89462d8dd1ac8d407985071c8e6110191b71865,",
+        "button.ghost.text": "S:c423bc0784fc1eb0fbb6be0db4ac5d4c83990704,",
+        "fg.default": "S:b32aa8d39b8bfe7f6377e144a9d494d9aa2dffbd,",
+        "fg.muted": "S:8f1f546872fa82a51786cd3a0c1af8d95ed512e5,",
+        "fg.subtle": "S:4811393328b080eaf402da0d02d792df30a65032,",
+        "bg.default": "S:962cb7604e4465d25899f311f3656fb92661ae1d,",
+        "bg.muted": "S:4bd6a93195effca7c8486393aeb2988310d80959,",
+        "bg.subtle": "S:5ea7334bea013a1e066e8181aa2095922d562bc6,",
+        "accent.default": "S:f0be4beadb95b5cab8af103ae9caf94452b8639b,",
+        "shadows.default": "S:668cc9e87b4d1ed6e4fe5a27c317be9d835762ce,",
+        "boxShadow.default": "S:53e1b202191c623b38597ab2986786bdef83735a,"
+      }
+    },
+    {
+      "id": "05c28a86fd84a9949966c1642df9f9ec340bffe4",
+      "name": "Dark",
+      "selectedTokenSets": {
+        "global": "source",
+        "light": "disabled",
+        "dark": "enabled",
+        "theme": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "button.primary.background": "S:bde33891ef6338453077e5cebe1299b9376c59ac,",
+        "button.ghost.outline": "S:0447ba755d78ddf12c28f463ff602d364178ab63,",
+        "button.ghost.text": "S:bc85c8778afe3ce4e04677756470a7f0ec3e2649,",
+        "fg.default": "S:5d7cf9c680f4789de8fa534967baa314dafcc850,",
+        "fg.muted": "S:e352f08ed3f0a028159b3690743a19916e23da05,",
+        "fg.subtle": "S:12c56b322cf023190eeae7f1ab037b75d80f6814,",
+        "bg.default": "S:2538533347fa34d1460b9a540d41f5356924c056,",
+        "bg.muted": "S:00b58c642d56d07588d3a08eb1e4eb0dbbf30e47,",
+        "bg.subtle": "S:cba9784dab3988904709ea935fd9b78a649ae392,",
+        "accent.default": "S:e28208d29202438edee73aff1b7fe31cdbd05f76,",
+        "shadows.default": "S:4568dca4a90f9151ab4001cbce06ed87252b13d9,",
+        "boxShadow.default": "S:cea72d869179a8e671d90fb7a60b4a49690519c6,"
+      }
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "global",
