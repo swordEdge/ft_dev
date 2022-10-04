@@ -702,7 +702,7 @@
         "type": "color"
       },
       "subtle": {
-        "value": "{colors.gray.500}",
+        "value": "#68d391",
         "type": "color"
       }
     },
