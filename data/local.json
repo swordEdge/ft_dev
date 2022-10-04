@@ -656,25 +656,17 @@
   "light": {
     "fg": {
       "default": {
-        "value": "{colors.black}",
+        "value": "#2b6cb0",
         "type": "color"
       },
       "muted": {
         "value": "{colors.gray.700}",
         "type": "color"
-      },
-      "subtle": {
-        "value": "{colors.gray.500}",
-        "type": "color"
       }
     },
     "bg": {
       "default": {
-        "value": "{colors.white}",
-        "type": "color"
-      },
-      "muted": {
-        "value": "{colors.gray.100}",
+        "value": "#1b3c60",
         "type": "color"
       },
       "subtle": {
@@ -701,8 +693,8 @@
         "value": "{colors.white}",
         "type": "color"
       },
-      "muted": {
-        "value": "{colors.gray.300}",
+      "muted-rename": {
+        "value": "#2b6cb0",
         "type": "color"
       },
       "subtle": {
