@@ -50,6 +50,10 @@
       "xl": {
         "value": "{sizing.lg} * {sizing.scale}",
         "type": "sizing"
+      },
+      "new": {
+        "value": "{sizing.scale}",
+        "type": "sizing"
       }
     },
     "borderRadius": {
