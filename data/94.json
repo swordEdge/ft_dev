@@ -1629,9 +1629,10 @@
     "com": {
       "value": {
         "property": "fill",
-        "value": "color.slate.200"
-      },
-      "type": "composition"
+        "value": "color.slate.200",
+        "type": "composition",
+        "inheritTypeLevel": 2
+      }
     }
   },
   "semantic": {
@@ -5167,5 +5168,50 @@
       }
     }
   },
-  "$themes": []
+  "$themes": [
+    {
+      "id": "95c5c6cb1fd9382505b4c901dd4be9ab71a2db51",
+      "name": "First",
+      "selectedTokenSets": {
+        "core": "source",
+        "semantic": "enabled",
+        "checkbox": "enabled",
+        "detail": "enabled",
+        "menu-item": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "8d6e91548b866765e07adfe933dfccfc4ff2ffb6",
+      "name": "Second",
+      "selectedTokenSets": {
+        "core": "source",
+        "semantic": "enabled",
+        "link": "source",
+        "checkbox": "enabled",
+        "field-label": "source",
+        "detail": "enabled",
+        "tag": "enabled",
+        "menu-item": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "semantic",
+      "link",
+      "radio-rename",
+      "checkbox",
+      "field-label",
+      "help-text",
+      "detail",
+      "code",
+      "avatar",
+      "tag",
+      "divider",
+      "menu-item"
+    ]
+  }
 }
