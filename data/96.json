@@ -4871,14 +4871,7 @@
       "id": "b8156146a5ac1fb7fdd1464895468f726daa47c4",
       "name": "root",
       "selectedTokenSets": {
-        "core": "enabled",
-        "divider": "disabled",
-        "menu-item-re": "disabled",
-        "radio": "disabled",
-        "semantic": "disabled",
-        "switch": "disabled",
-        "tag-rename": "disabled",
-        "text-field": "disabled"
+        "core": "enabled"
       },
       "$figmaStyleReferences": {}
     },
@@ -4888,12 +4881,7 @@
       "selectedTokenSets": {
         "core": "source",
         "divider": "enabled",
-        "menu-item-re": "disabled",
-        "radio": "disabled",
-        "semantic": "enabled",
-        "switch": "disabled",
-        "tag-rename": "disabled",
-        "text-field": "disabled"
+        "semantic": "enabled"
       },
       "$figmaStyleReferences": {
         "semantic.fg.default": "S:e78d0031cfb1348810cff9160ed800941a1e875f,",
