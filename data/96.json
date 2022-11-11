@@ -4876,6 +4876,18 @@
       "$figmaStyleReferences": {}
     },
     {
+      "id": "1b464905459b19b4b33ca3353fed4008ec1f7cca",
+      "name": "Dark",
+      "selectedTokenSets": {
+        "core": "source",
+        "divider": "enabled",
+        "menu-item-re": "enabled",
+        "semantic": "enabled",
+        "tag-rename": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
       "id": "c2d379642a5e9f6bb4f3f7d9407b07f6bd48f140",
       "name": "Light",
       "selectedTokenSets": {
