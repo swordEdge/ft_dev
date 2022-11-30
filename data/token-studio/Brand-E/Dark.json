@@ -1,0 +1,194 @@
+{
+  "semantic": {
+    "fg": {
+      "default": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "muted": {
+        "value": "{color.amber.50}",
+        "type": "color"
+      },
+      "subtle": {
+        "value": "{color.stone.600}",
+        "type": "color"
+      },
+      "on-accent": {
+        "value": "#222222",
+        "type": "color"
+      }
+    },
+    "bg": {
+      "surface": {
+        "value": "#222222",
+        "type": "color"
+      },
+      "canvas": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    },
+    "primary": {
+      "default": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      }
+    },
+    "color": {
+      "actions": {
+        "primary": {
+          "hover": {
+            "border-color": {
+              "value": "{color.orange.600}",
+              "type": "color"
+            },
+            "text-color": {
+              "value": "{color.orange.600}",
+              "type": "color"
+            },
+            "icon-color": {
+              "value": "{color.orange.600}",
+              "type": "color"
+            },
+            "background-color": {
+              "value": "{color.neutrals.transparent}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "inputs": {
+        "default": {
+          "text-color": {
+            "value": "{color.slate.50}",
+            "type": "color"
+          }
+        },
+        "checkbox": {
+          "border-color": {
+            "value": "{color.amber.500}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{color.neutrals.transparent}",
+            "type": "color"
+          },
+          "checkmark": {
+            "background-color": {
+              "value": "{color.amber.500}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "feedback": {
+        "info": {
+          "border-color": {
+            "value": "{color.blue.500}",
+            "type": "color"
+          },
+          "background-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{color.blue.700}",
+            "type": "color"
+          },
+          "text-color": {
+            "value": "{color.blue.600}",
+            "type": "color"
+          }
+        }
+      }
+    }
+  },
+  "checkbox": {
+    "unselected": {
+      "default": {
+        "background-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{color.orange.500}",
+          "type": "color"
+        }
+      }
+    },
+    "selected": {
+      "default": {
+        "background-color": {
+          "value": "{color.orange.600}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{color.orange.600}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "background-color": {
+          "value": "{color.orange.500}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{color.orange.500}",
+          "type": "color"
+        }
+      }
+    },
+    "checkmark": {
+      "selected": {
+        "default": {
+          "icon-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "icon-color": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "border-radius": {
+      "value": "{border-radius.2}",
+      "type": "borderRadius"
+    }
+  },
+  "menu-item": {
+    "default": {
+      "text-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "text-color": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      }
+    },
+    "selected": {
+      "text-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    }
+  }
+}
