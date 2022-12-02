@@ -1,6 +1,10 @@
 {
   "global": {
     "primary": {
+      "8": {
+        "value": "8",
+        "type": "sizing"
+      },
       "new": {
         "value": "1",
         "type": "sizing"
@@ -25,6 +29,10 @@
           "type": "spacing"
         }
       }
+    },
+    "primary6": {
+      "value": "6",
+      "type": "sizing"
     }
   },
   "$themes": [],
