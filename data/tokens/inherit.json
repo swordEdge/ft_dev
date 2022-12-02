@@ -3,13 +3,11 @@
     "primary": {
       "new": {
         "value": "1",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "type": "sizing"
       },
       "old": {
         "value": "4",
-        "type": "sizing",
-        "inheritTypeLevel": 2
+        "type": "sizing"
       }
     },
     "spacing": {
@@ -20,6 +18,10 @@
         },
         "6": {
           "value": "6",
+          "type": "spacing"
+        },
+        "8": {
+          "value": "8",
           "type": "spacing"
         }
       }
