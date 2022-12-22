@@ -1567,10 +1567,6 @@
         }
       }
     },
-    "local size": {
-      "value": "234",
-      "type": "sizing"
-    },
     "typography": {
       "headlines": {
         "small": {
