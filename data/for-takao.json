@@ -1,0 +1,34 @@
+{
+  "global": {
+    "aa": {
+      "value": "60%",
+      "type": "opacity"
+    },
+    "aaa": {
+      "value": "#b51313",
+      "type": "color"
+    },
+    "bbbb": {
+      "value": "#1372b3",
+      "type": "color"
+    },
+    "ccc": {
+      "value": {
+        "fontFamily": "IBM Plex Sans",
+        "fontWeight": "Bold",
+        "lineHeight": "10%",
+        "fontSize": "24px",
+        "letterSpacing": "10%",
+        "textDecoration": "Uppercase",
+        "textCase": "Underline"
+      },
+      "type": "typography"
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global"
+    ]
+  }
+}
