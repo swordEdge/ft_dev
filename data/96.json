@@ -5132,6 +5132,45 @@
         "divider.on-background.color": "S:928980e0238092db7ede7bb906483ed30dd66244,",
         "semantic.ui.shadow": "S:60ad182f1d7b11bebe120f7f803ba0c1371be63c,"
       }
+    },
+    {
+      "id": "bc5ac161b3529003446c6794f36246ec2a08d2c7",
+      "name": "Background",
+      "selectedTokenSets": {
+        "core": "source",
+        "divider": "enabled",
+        "menu-item-re": "enabled",
+        "semantic": "enabled",
+        "switch": "enabled",
+        "tag-rename": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "b25ba9f50697173975aa1d57196cff1757f5e0dc",
+      "name": "Desktop",
+      "selectedTokenSets": {
+        "core": "source",
+        "divider": "enabled",
+        "menu-item-re": "enabled",
+        "radio": "enabled",
+        "semantic": "enabled",
+        "switch": "enabled",
+        "tag-rename": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "a5ff59e913e582a6b7b8379f295f4bb92036c032",
+      "name": "mobile",
+      "selectedTokenSets": {
+        "core": "source",
+        "divider": "enabled",
+        "radio": "enabled",
+        "tag-rename": "enabled",
+        "semantic": "enabled"
+      },
+      "$figmaStyleReferences": {}
     }
   ],
   "$metadata": {
