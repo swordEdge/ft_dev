@@ -1,0 +1,50 @@
+{
+  "global": {
+    "color": {
+      "button": {
+        "value": "#b31e1e",
+        "type": "color"
+      }
+    }
+  },
+  "age": {
+    "color": {
+      "button": {
+        "value": "#0deb3a",
+        "type": "color"
+      }
+    }
+  },
+  "core": {
+    "core": {
+      "value": "{color.button}",
+      "type": "color"
+    }
+  },
+  "theme": {
+    "color": {
+      "button": {
+        "value": "#ebe70c",
+        "type": "color"
+      }
+    }
+  },
+  "tag": {
+    "color": {
+      "button": {
+        "value": "#3a0cc5",
+        "type": "color"
+      }
+    }
+  },
+  "$themes": [],
+  "$metadata": {
+    "tokenSetOrder": [
+      "global",
+      "age",
+      "core",
+      "theme",
+      "tag"
+    ]
+  }
+}
