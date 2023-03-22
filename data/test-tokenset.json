@@ -7,22 +7,18 @@
       }
     }
   },
-  "comp/button": {},
-  "comp/icon_button": {},
+  "comp/first": {},
+  "comp/second": {},
   "comp/third": {},
-  "comp/new": {},
-  "bronds/electron": {},
-  "bronds/last": {},
+  "brands/first": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "comp/button",
-      "comp/icon_button",
+      "comp/first",
+      "comp/second",
       "comp/third",
-      "comp/new",
-      "bronds/electron",
-      "bronds/last"
+      "brands/first"
     ]
   }
 }
