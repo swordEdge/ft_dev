@@ -11,6 +11,8 @@
   "comp/icon_button": {},
   "bronds/electron": {},
   "comp/third": {},
+  "comp/new": {},
+  "bronds/last": {},
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
@@ -18,7 +20,9 @@
       "comp/button",
       "comp/icon_button",
       "bronds/electron",
-      "comp/third"
+      "comp/third",
+      "comp/new",
+      "bronds/last"
     ]
   }
 }
