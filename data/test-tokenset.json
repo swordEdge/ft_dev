@@ -15,18 +15,18 @@
       }
     }
   },
-  "core": {
-    "core": {
-      "value": "{color.button}",
-      "type": "color"
-    }
-  },
   "theme": {
     "color": {
       "button": {
         "value": "#ebe70c",
         "type": "color"
       }
+    }
+  },
+  "core": {
+    "core": {
+      "value": "{color.button}",
+      "type": "color"
     }
   },
   "tag": {
@@ -37,13 +37,26 @@
       }
     }
   },
-  "$themes": [],
+  "$themes": [
+    {
+      "id": "48d96ad8ee9e4a723f70c69cd016cd7a78787004",
+      "name": "AAA",
+      "selectedTokenSets": {
+        "global": "source",
+        "age": "enabled",
+        "theme": "enabled",
+        "core": "enabled",
+        "tag": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    }
+  ],
   "$metadata": {
     "tokenSetOrder": [
       "global",
       "age",
-      "core",
       "theme",
+      "core",
       "tag"
     ]
   }
