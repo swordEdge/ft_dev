@@ -43,10 +43,10 @@
       "name": "AAA",
       "selectedTokenSets": {
         "global": "source",
+        "tag": "enabled",
         "age": "enabled",
         "theme": "enabled",
-        "core": "enabled",
-        "tag": "enabled"
+        "core": "enabled"
       },
       "$figmaStyleReferences": {}
     }
@@ -54,10 +54,10 @@
   "$metadata": {
     "tokenSetOrder": [
       "global",
+      "tag",
       "age",
       "theme",
-      "core",
-      "tag"
+      "core"
     ]
   }
 }
