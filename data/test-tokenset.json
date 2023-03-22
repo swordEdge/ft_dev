@@ -7,57 +7,18 @@
       }
     }
   },
-  "age": {
-    "color": {
-      "button": {
-        "value": "#0deb3a",
-        "type": "color"
-      }
-    }
-  },
-  "theme": {
-    "color": {
-      "button": {
-        "value": "#ebe70c",
-        "type": "color"
-      }
-    }
-  },
-  "core": {
-    "core": {
-      "value": "{color.button}",
-      "type": "color"
-    }
-  },
-  "tag": {
-    "color": {
-      "button": {
-        "value": "#3a0cc5",
-        "type": "color"
-      }
-    }
-  },
-  "$themes": [
-    {
-      "id": "48d96ad8ee9e4a723f70c69cd016cd7a78787004",
-      "name": "AAA",
-      "selectedTokenSets": {
-        "global": "source",
-        "tag": "enabled",
-        "age": "enabled",
-        "theme": "enabled",
-        "core": "enabled"
-      },
-      "$figmaStyleReferences": {}
-    }
-  ],
+  "comp/button": {},
+  "comp/icon_button": {},
+  "bronds/electron": {},
+  "comp/third": {},
+  "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
       "global",
-      "tag",
-      "age",
-      "theme",
-      "core"
+      "comp/button",
+      "comp/icon_button",
+      "bronds/electron",
+      "comp/third"
     ]
   }
 }
