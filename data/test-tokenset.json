@@ -9,9 +9,9 @@
   },
   "comp/button": {},
   "comp/icon_button": {},
-  "bronds/electron": {},
   "comp/third": {},
   "comp/new": {},
+  "bronds/electron": {},
   "bronds/last": {},
   "$themes": [],
   "$metadata": {
@@ -19,9 +19,9 @@
       "global",
       "comp/button",
       "comp/icon_button",
-      "bronds/electron",
       "comp/third",
       "comp/new",
+      "bronds/electron",
       "bronds/last"
     ]
   }
