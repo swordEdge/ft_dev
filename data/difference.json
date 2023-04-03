@@ -1,16 +1,8 @@
 {
   "global": {
     "border-radius": {
-      "0": {
-        "value": "64px",
-        "type": "borderRadius"
-      },
-      "1": {
-        "value": "1px",
-        "type": "borderRadius"
-      },
       "2": {
-        "value": "2px",
+        "value": "4px",
         "type": "borderRadius"
       },
       "3": {
@@ -30,13 +22,13 @@
         "type": "borderRadius"
       },
       "7": {
-        "value": "24px",
+        "value": "28px",
         "type": "borderRadius"
       },
       "8": {
         "value": "38px",
         "type": "borderRadius",
-        "description": "new description 8"
+        "description": "modified 8"
       },
       "9": {
         "value": "100px",
