@@ -34,7 +34,7 @@
         "type": "borderRadius"
       },
       "8": {
-        "value": "32px",
+        "value": "38px",
         "type": "borderRadius",
         "description": "new description 8"
       },
@@ -44,6 +44,11 @@
       },
       "10": {
         "value": "100px",
+        "type": "borderRadius",
+        "description": "changed description 10"
+      },
+      "11": {
+        "value": "110px",
         "type": "borderRadius",
         "description": "new description"
       }
