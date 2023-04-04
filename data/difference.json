@@ -13,14 +13,6 @@
         "value": "4px",
         "type": "borderRadius"
       },
-      "5": {
-        "value": "10px",
-        "type": "borderRadius"
-      },
-      "6": {
-        "value": "16px",
-        "type": "borderRadius"
-      },
       "7": {
         "value": "28px",
         "type": "borderRadius"
