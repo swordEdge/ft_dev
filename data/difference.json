@@ -46,6 +46,54 @@
       }
     }
   },
+  "new-in-remote": {
+    "border-radius": {
+      "2": {
+        "value": "4px",
+        "type": "borderRadius"
+      },
+      "3": {
+        "value": "3px",
+        "type": "borderRadius"
+      },
+      "4": {
+        "value": "4px",
+        "type": "borderRadius"
+      },
+      "5": {
+        "value": "10px",
+        "type": "borderRadius"
+      },
+      "6": {
+        "value": "16px",
+        "type": "borderRadius"
+      },
+      "7": {
+        "value": "28px",
+        "type": "borderRadius"
+      },
+      "8": {
+        "value": "38px",
+        "type": "borderRadius",
+        "description": "modified 8"
+      },
+      "9": {
+        "value": "100px",
+        "type": "borderRadius"
+      },
+      "10": {
+        "value": "100px",
+        "type": "borderRadius",
+        "description": "changed description 10"
+      },
+      "11": {
+        "value": "110px",
+        "type": "borderRadius",
+        "description": "new description"
+      }
+    }
+  },
+
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
