@@ -36,6 +36,10 @@
         "type": "borderRadius",
         "description": "new description"
       }
+    },
+    "new": {
+      "value": "new",
+      "type": "borderRadius"
     }
   },
   "new-in-remote": {
@@ -85,11 +89,11 @@
       }
     }
   },
-
   "$themes": [],
   "$metadata": {
     "tokenSetOrder": [
-      "global"
+      "global",
+      "new-in-remote"
     ]
   }
 }
