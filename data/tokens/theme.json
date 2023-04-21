@@ -815,6 +815,48 @@
         "dark": "enabled"
       },
       "$figmaStyleReferences": {}
+    },
+    {
+      "id": "a8e7ef2bdba7c5d8a5501e158ba4979aa1faf298",
+      "name": "themeC",
+      "group": "groupA",
+      "selectedTokenSets": {
+        "core": "source",
+        "theme": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "72adb8dc4f5321d3ab5954075e93d567c6eadf36",
+      "name": "themeD",
+      "group": "groupA",
+      "selectedTokenSets": {
+        "core": "source",
+        "light": "enabled"
+      },
+      "$figmaStyleReferences": {}
+    },
+    {
+      "id": "3f4816b7db8120133fe3c451806ee2ec2bfa7584",
+      "name": "themeE",
+      "group": "groupB",
+      "selectedTokenSets": {
+        "core": "source",
+        "dark": "enabled"
+      },
+      "$figmaStyleReferences": {
+        "shadows.default": "S:06a2b6230a6070a87d524e14bef001b412ba008f,"
+      }
+    },
+    {
+      "id": "2a3720684142dc84929fdb79c0c0c360da94e702",
+      "name": "themeF",
+      "group": "groupA",
+      "selectedTokenSets": {
+        "core": "source",
+        "dark": "source"
+      },
+      "$figmaStyleReferences": {}
     }
   ],
   "$metadata": {
