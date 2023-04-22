@@ -44,6 +44,10 @@
       "10": {
         "value": "110px",
         "type": "borderRadius"
+      },
+      "11": {
+        "value": "120px",
+        "type": "borderRadius"
       }
     },
     "border-width": {
