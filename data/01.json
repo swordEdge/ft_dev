@@ -49,11 +49,6 @@
         "value": "120px",
         "type": "borderRadius"
       },
-            "12": {
-        "value": "130px",
-        "type": "borderRadius"
-      }
-
     },
     "border-width": {
       "0": {
