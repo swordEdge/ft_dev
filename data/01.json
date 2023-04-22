@@ -66,6 +66,10 @@
       "5": {
         "value": "6",
         "type": "borderWidth"
+      },
+      "6": {
+        "value": "7",
+        "type": "borderWidth"
       }
     },
     "color": {
