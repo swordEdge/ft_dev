@@ -40,6 +40,10 @@
       "9": {
         "value": "100px",
         "type": "borderRadius"
+      },
+            "10": {
+        "value": "110px",
+        "type": "borderRadius"
       }
     },
     "border-width": {
