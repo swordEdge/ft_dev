@@ -1614,12 +1614,15 @@
       "type": "composition"
     },
     "com": {
+      "type": "composition",
       "value": {
         "property": "fill",
-        "value": "color.slate.200",
-        "type": "composition",
-        "inheritTypeLevel": 2
+        "value": "color.slate.200"
       }
+    },
+    "new": {
+      "value": "12",
+      "type": "spacing"
     }
   },
   "divider": {
