@@ -1,7 +1,7 @@
 {
   "fg": {
     "default": {
-      "value": "{colors.white-rename}",
+      "value": "{colors.white}",
       "type": "color"
     },
     "muted": {
@@ -19,7 +19,7 @@
       "type": "color"
     },
     "muted": {
-      "value": "{colors.gray.700-rename}",
+      "value": "{colors.gray.700}",
       "type": "color"
     },
     "subtle": {
@@ -33,7 +33,7 @@
       "type": "color"
     },
     "onAccent": {
-      "value": "{colors.white-rename}",
+      "value": "{colors.white}",
       "type": "color"
     },
     "bg": {
