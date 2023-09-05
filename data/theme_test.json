@@ -1,0 +1,54 @@
+{
+  "core": {},
+  "set1": {},
+  "set2": {},
+  "$themes": [
+    {
+      "id": "c7180330200a788d8ff307c8a1fa385e04329d2c",
+      "name": "test1",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "set1": "enabled"
+      },
+      "group": "default"
+    },
+    {
+      "id": "4a08f049b7f241c61b7af4a503621f9a2d212c6e",
+      "name": "test2",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "set1": "enabled"
+      },
+      "group": "default"
+    },
+    {
+      "id": "f7f6e2ae5fb0ac5d26111abd3fb700fcb4ffbc8b",
+      "name": "test3",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "set1": "enabled"
+      },
+      "group": "test"
+    },
+    {
+      "id": "92e122e2005b187f00a06fc3edf7d7a880a4364c",
+      "name": "test4",
+      "$figmaStyleReferences": {},
+      "selectedTokenSets": {
+        "core": "source",
+        "set1": "enabled"
+      },
+      "group": "test"
+    }
+  ],
+  "$metadata": {
+    "tokenSetOrder": [
+      "core",
+      "set1",
+      "set2"
+    ]
+  }
+}
