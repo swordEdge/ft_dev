@@ -2,53 +2,86 @@
   "fg": {
     "default": {
       "value": "{button.primary.text}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "b73ceafd-0f65-45d4-9f55-1dc7aef6c697"
+      }
     },
     "muted": {
       "value": "{colors.gray.300}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "c7af450d-a5b0-49b9-8f75-b6cf5c58a5ec"
+      }
     },
     "subtle": {
       "value": "{colors.gray.500}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "499314b5-67d4-4b73-92e7-c5e4f5ff9053"
+      }
     }
   },
   "bg": {
     "default-rename": {
       "value": "{colors.gray.900}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "bd261ff4-d459-4bf5-b505-45134c472bea"
+      }
     },
     "muted": {
       "value": "{colors.gray.700}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "71021242-1233-454f-ab45-c693994f0eec"
+      }
     },
     "subtle": {
       "value": "{colors.gray.600}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "f6246072-4ee0-402f-9227-0d64b300c228"
+      }
     }
   },
   "accent": {
     "default": {
       "value": "{colors.indigo.600}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "2616cf17-5f76-4791-86a8-9bc488ca46a2"
+      }
     },
     "onAccent": {
       "value": "{colors.white}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "c139d208-5876-4fc9-abc6-45088cc3d098"
+      }
     },
     "bg": {
       "value": "{colors.indigo.800}",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "2dd6bba1-a827-4994-8876-7f6c26567c3b"
+      }
     }
   },
   "shadows": {
     "default": {
       "value": "rgba({colors.black}, 0.3)",
-      "type": "color"
+      "type": "color",
+      "$extensions": {
+        "id": "82dd39bb-15c8-43a6-9a7f-1088be2e9258"
+      }
     }
   },
   "alias-math": {
     "value": "{spacing.xs}",
-    "type": "spacing"
+    "type": "spacing",
+    "$extensions": {
+      "id": "d86654ef-fdcf-4499-b79d-8655de3dcbb2"
+    }
   }
 }
