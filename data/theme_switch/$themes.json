@@ -23,10 +23,10 @@
       "dark": "enabled"
     },
     "group": "color",
-    "$figmaCollectionId": "VariableCollectionId:589:32817",
-    "$figmaModeId": "589:1",
+    "$figmaCollectionId": "VariableCollectionId:589:32815",
+    "$figmaModeId": "589:3",
     "$figmaVariableReferences": {
-      "background-test-1234": "1b0e9e811c8ee0ed5173a9768c4d1f7dc8295623"
+      "background-test-1234": "bf59e3c1abced5a1fc6678c93f0cf61e7621b0b1"
     }
   },
   {
