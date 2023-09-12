@@ -1,0 +1,7 @@
+{
+  "tokenSetOrder": [
+    "global",
+    "components/spacious/checkbox",
+    "densities/spacious"
+  ]
+}

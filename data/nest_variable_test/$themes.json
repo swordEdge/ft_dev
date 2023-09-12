@@ -1,0 +1,31 @@
+[
+  {
+    "id": "a06608b38d8c871ad5d99befdcb178febb3b1379",
+    "name": "core",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "enabled"
+    },
+    "group": "default"
+  },
+  {
+    "id": "d31138e11885a73a3823bd39e0b70307cca9ec23",
+    "name": "dark",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "densities/spacious": "enabled"
+    },
+    "group": "color"
+  },
+  {
+    "id": "b67937114937e5694618e3e43ca1861196f3f06a",
+    "name": "light",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "global": "source",
+      "components/spacious/checkbox": "enabled"
+    },
+    "group": "color"
+  }
+]
