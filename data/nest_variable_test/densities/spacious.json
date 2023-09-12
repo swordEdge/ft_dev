@@ -47,7 +47,7 @@
   },
   "accent": {
     "default": {
-      "value": "{colors.blue.500}",
+      "value": "{colors.orange.700}",
       "type": "color",
       "$extensions": {
         "id": "2616cf17-5f76-4791-86a8-9bc488ca46a2"
