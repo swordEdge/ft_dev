@@ -1,6 +1,6 @@
 {
   "background-test-1234": {
-    "value": "{green}",
+    "value": "#0ee203",
     "type": "color"
   }
 }
