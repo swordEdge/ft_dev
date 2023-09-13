@@ -1,6 +1,6 @@
 {
-  "color-test": {
-    "value": "#00ceff",
+  "variable-lib-test": {
+    "value": "#f60000",
     "type": "color"
   }
 }
