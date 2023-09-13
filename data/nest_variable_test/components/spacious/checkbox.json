@@ -1,87 +1,22 @@
 {
-  "fg": {
-    "default": {
-      "value": "{colors.black}",
-      "type": "color",
-      "$extensions": {
-        "id": "5eabd840-746b-4219-ac1a-dfaa14765678"
-      }
-    },
-    "muted": {
-      "value": "{colors.gray.700}",
-      "type": "color",
-      "$extensions": {
-        "id": "fa9bc8bc-0ee2-4a88-9527-3d6d909616d8"
-      }
-    },
-    "subtle": {
-      "value": "{colors.gray.500}",
-      "type": "color",
-      "$extensions": {
-        "id": "1f2b0acb-e439-488e-90a9-64efe147a968"
-      }
-    }
+  "border-width": {
+    "value": "{semantic.border-width.interactive}",
+    "type": "borderWidth"
   },
-  "bg": {
-    "default-rename": {
-      "value": "{colors.white}",
-      "type": "color",
-      "$extensions": {
-        "id": "88363fcb-9f09-4e44-9efa-28cd77d50d12"
+  "checkbox": {
+    "border-radius": {
+      "value": "{semantic.border-radius.interactive.s}",
+      "type": "borderRadius"
+    },
+    "focus": {
+      "border-radius": {
+        "value": "{checkbox.border-radius} * 1",
+        "type": "borderRadius"
       }
     },
-    "muted": {
-      "value": "{colors.gray.100}",
-      "type": "color",
-      "$extensions": {
-        "id": "ad31ac3b-6c1a-4685-a2f4-c90dba3efb44"
-      }
-    },
-    "subtle": {
-      "value": "{colors.gray.200}",
-      "type": "color",
-      "$extensions": {
-        "id": "2a7864c1-8b76-4f11-9d2c-dd23b6e03a8c"
-      }
-    }
-  },
-  "accent": {
-    "default": {
-      "value": "{colors.green.500}",
-      "type": "color",
-      "$extensions": {
-        "id": "68b1f64b-25a7-4b52-886b-40f9f64e8f56"
-      }
-    },
-    "onAccent": {
-      "value": "{colors.white}",
-      "type": "color",
-      "$extensions": {
-        "id": "77feac89-7ae0-4aa5-96ab-d400237c74d4"
-      }
-    },
-    "bg": {
-      "value": "{colors.indigo.200}",
-      "type": "color",
-      "$extensions": {
-        "id": "af803b53-a0f2-4234-b1a8-27e5726c2e51"
-      }
-    }
-  },
-  "shadows": {
-    "default": {
-      "value": "{colors.gray.900}",
-      "type": "color",
-      "$extensions": {
-        "id": "8432be2e-4af1-4cbb-8ddc-0cd54f74762d"
-      }
-    }
-  },
-  "nest-test": {
-    "value": "{spacing.xs} + {spacing.xs}",
-    "type": "sizing",
-    "$extensions": {
-      "id": "e7cd7dc0-baa7-46f5-8f28-713be458b4e3"
+    "test": {
+      "value": "{core.dimension.100} * {semantic.spacing.dynamic.s.300}",
+      "type": "borderRadius"
     }
   }
 }
