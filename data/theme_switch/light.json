@@ -1,6 +1,6 @@
 {
-  "background-test-1234": {
-    "value": "#f78205",
+  "color-test": {
+    "value": "#f00",
     "type": "color"
   }
 }
